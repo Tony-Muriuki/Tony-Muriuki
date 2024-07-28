@@ -1,5 +1,4 @@
 # HEY, I’m @Tony-Muriuki
-! GitHub stats(https://github-readme-stats.vercel.app/api?username=Tony-Muriuki&show_icons=true&theme=radical)
 
 ## About Me
 I am a SOFTWARE ENGINEER with a comprehensive understanding of both front-end and back-end development. I specialize in developing full-stack applications with a strong emphasis on creating intuitive and dynamic user experiences. My expertise spans a range of technologies, including:
