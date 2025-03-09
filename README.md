@@ -1,25 +1,20 @@
-# HELLO, I’M @Tony-Muriuki
+## Tony Muriuki – Software Engineer
+### Professional Profile
+I am a Software Engineer with a strong foundation in both front-end and back-end development. My expertise lies in building full-stack applications that prioritize intuitive, dynamic, and user-friendly experiences. I specialize in:
 
-## PROFESSIONAL PROFILE
-I am a SOFTWARE ENGINEER with a comprehensive understanding of both front-end and back-end development. I specialize in developing full-stack applications with a strong emphasis on creating intuitive and dynamic user experiences. My expertise spans a range of technologies, including:
+JavaScript
+React.js
+HTML & CSS
+Python
+Flask
+## Continuous Learning & Growth
+I am committed to expanding my skill set and am currently advancing my knowledge in web development at Teach2Give.
 
-- **JavaScript**
-- **React.js**
-- **HTML & CSS**
-- **Python**
-- **Flask**
+## Collaboration & Opportunities
+I am open to collaborating on innovative projects that focus on impactful and user-centric solutions. If you're looking for a dedicated and versatile software engineer to contribute to your team or project, let’s connect and create something exceptional.
 
-##  I’m currently learning
-I’m continuously expanding my skill set and currently exploring advanced topics in both web development at Teach2give
-## I’m looking to collaborate on
-I'm open to collaborating on innovative projects, particularly those that aim to create impactful and user-friendly applications. If you’re looking for a committed and versatile software engineer to join your team or collaborate on a project, feel free to connect with me. Let’s build something amazing together!
+## Get in Touch
+For collaboration opportunities or professional inquiries, feel free to reach out via:
 
-## GET IN TOUCH
-Feel Free to Reach Out via:
-- **Email:** kamandetonymuriuki@gmail.com
-
-
-
----
-
-Ready to connect and collaborate! Whether you’re looking to discuss potential opportunities, brainstorm ideas, or just say hi, I’m here and excited to chat. Feel free to reach out!
+Email: kamandetonymuriuki@gmail.com
+Let’s build something amazing together!
