@@ -44,17 +44,7 @@ I am passionate about **collaborating on high-impact projects** that push the bo
 For collaboration opportunities, consulting, or professional engagements, feel free to reach out:  
 📧 **Email:** [kamandetonymuriuki@gmail.com](mailto:kamandetonymuriuki@gmail.com)  
 
-## 🔗 **Connect with Me**  
-<p align="center">
-  <a href="https://github.com/TonyMuriuki">
-    <img src="https://img.shields.io/badge/GitHub-TonyMuriuki-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-TonyMuriuki-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
-### 🏷️ *Keywords:*  
-`#SoftwareEngineer` `#FullStackDeveloper` `#JavaScript` `#TypeScript` `#ReactJS` `#Python` `#Flask` `#WebDevelopment` `#Testing` `#Jest` `#Cypress` `#AWS` `#DevOps` `#OpenToWork` `#Collaboration`  
+
+
