@@ -37,19 +37,6 @@ I am passionate about **collaborating on high-impact projects** that push the bo
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyMuriuki&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyMuriuki&show_icons=true&theme=radical&hide_border=true" alt="Tony's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyMuriuki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-[![Tony Muriuki's Dev Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyMuriuki&theme=radical)](https://github.com/TonyMuriuki)
 
 ---
 
