@@ -49,7 +49,7 @@ For collaboration opportunities, consulting, or professional engagements, feel f
   <a href="https://github.com/TonyMuriuki">
     <img src="https://img.shields.io/badge/GitHub-TonyMuriuki-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="[https://www.linkedin.com/in/TonyMuriuki](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-TonyMuriuki-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
