@@ -16,6 +16,7 @@ As a strong advocate for **continuous learning and innovation**, I am currently 
 - **Performance optimization** for scalable applications  
 - **Security best practices** to enhance application robustness  
 - **Modern architectural patterns** for maintainable and efficient code  
+- **Automated Testing with Jest & Cypress** to ensure high code quality  
 
 ## 🤝 **Collaboration & Strategic Partnerships**  
 I am passionate about **collaborating on high-impact projects** that push the boundaries of innovation, efficiency, and user experience. Whether you're looking for a **versatile, detail-oriented, and performance-driven** software engineer to **join your team, contribute to an open-source project, or consult on a tech initiative**, let’s connect and create something groundbreaking!  
@@ -26,6 +27,7 @@ I am passionate about **collaborating on high-impact projects** that push the bo
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,16 +37,20 @@ I am passionate about **collaborating on high-impact projects** that push the bo
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-336791?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-
 ---
+
+
+
+
+
+
+
 
 ## 📩 **Get in Touch**  
 For collaboration opportunities, consulting, or professional engagements, feel free to reach out:  
 📧 **Email:** [kamandetonymuriuki@gmail.com](mailto:kamandetonymuriuki@gmail.com)  
 
 ---
-
-
-
