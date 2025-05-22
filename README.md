@@ -49,7 +49,7 @@ I am passionate about **collaborating on high-impact projects** that push the bo
 
 
 
-## 📩 **Get in Touch**  
+## **Get in Touch**  
 For collaboration opportunities, consulting, or professional engagements, feel free to reach out:  
 📧 **Email:** [kamandetonymuriuki@gmail.com](mailto:kamandetonymuriuki@gmail.com)  
 
