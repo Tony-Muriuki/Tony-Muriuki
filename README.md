@@ -1,7 +1,5 @@
 # **TONY MURIUKI – FULLSTACK SOFTWARE ENGINEER** 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TonyMuriuki&color=blue)](https://github.com/TonyMuriuki)
-
 ## **PROFESSIONAL OVERVIEW**  
 I am a **highly skilled and results-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experiences.  
 
