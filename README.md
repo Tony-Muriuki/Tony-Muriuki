@@ -9,12 +9,6 @@ I am a **highly skilled and results-driven Software Engineer** with expertise in
 - **Testing & Quality Assurance:** Jest, Cypress (E2E Testing)  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
 
-## **CONTINUOUS LEARNING & TECHNICAL ADVANCEMENT**  
-As a strong advocate for **continuous learning and innovation**, I am currently deepening my expertise in **advanced web development methodologies** at **Teach2Give**. My focus areas include:  
-- **Performance optimization** for scalable applications  
-- **Security best practices** to enhance application robustness  
-- **Modern architectural patterns** for maintainable and efficient code  
-- **Automated Testing with Jest & Cypress** to ensure high code quality  
 
 ## **COLLABORATION & STRATEGIC PARTNERSHIP**  
 I am passionate about **collaborating on high-impact projects** that push the boundaries of innovation, efficiency, and user experience. Whether you're looking for a **versatile, detail-oriented, and performance-driven** software engineer to **join your team, contribute to an open-source project, or consult on a tech initiative**, let’s connect and create something groundbreaking!  
