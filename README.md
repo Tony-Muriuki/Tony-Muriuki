@@ -1,4 +1,4 @@
-# **TONY MURIUKI – FULLSTACK SOFTWARE ENGINEER** 
+# **TONY MURIUKI –  SOFTWARE ENGINEER** 
 
 ## **PROFESSIONAL OVERVIEW**  
 I am a **highly skilled and results-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experiences.  
