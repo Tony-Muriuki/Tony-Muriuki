@@ -1,7 +1,7 @@
 # **TONY MURIUKI –  SOFTWARE ENGINEER** 
 
 ## **PROFESSIONAL OVERVIEW**  
-I am a **highly skilled and results-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experiences.  
+I am a **highly skilled and results-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experience.  
 
 ### **TECH STACK**  
 - **Frontend:** React.js, Angular, TypeScript, JavaScript, HTML, CSS  
