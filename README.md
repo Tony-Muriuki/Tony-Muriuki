@@ -7,7 +7,7 @@ I am a **highly skilled and result-driven Software Engineer** with expertise in 
 - **Frontend:** React.js, Angular, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** Python, Flask, Node.js  
 - **Testing & Quality Assurance:** Jest, Cypress (E2E Testing)  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipeline  
 
 
 ## **COLLABORATION & STRATEGIC PARTNERSHIP**  
