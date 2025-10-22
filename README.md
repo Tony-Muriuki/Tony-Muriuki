@@ -1,13 +1,13 @@
-# **TONY MURIUKI –  SOFTWARE ENGINEER** 
+# **TONY MURIUKI –  FullStack Software Engineer** 
 
 ## **PROFESSIONAL OVERVIEW**  
 I am **highly skilled and result-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experience.  
 
 ### **TECH STACK**  
-- **Frontend:** React.js, Angular, TypeScript, JavaScript, HTML, CSS  
+- **Frontend:** React.js, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** Python, Flask, Node.js  
 - **Testing & Quality Assurance:** Jest, Cypress (E2E Testing)  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
+- **Cloud & DevOps:**  Docker, Kubernetes, CI/CD Pipelines  
 
 
 ## **COLLABORATION & STRATEGIC PARTNERSHIP**  
