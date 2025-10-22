@@ -1,4 +1,4 @@
-# **TONY MURIUKI –  FullStack Software Engineer** 
+# **Tony  Muriuki Kamande –  FullStack Software Engineer** 
 
 ## **PROFESSIONAL OVERVIEW**  
 I am **highly skilled and result-driven Software Engineer** with expertise in **full-stack development**, specializing in **scalable, high-performance applications** that prioritize efficiency, maintainability, and exceptional user experience.  
