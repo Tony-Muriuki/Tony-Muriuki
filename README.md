@@ -1,8 +1,8 @@
 # **Tony  Muriuki Kamande –  FullStack Software Engineer** 
 
 ## **Professional Overview**  
-Software Engineer with expertise in full-stack development, specializing in building scalable, high-performance backend systems and intuitive user interfaces.
-My experience spans designing, developing, and deploying production-grade applications that prioritize efficiency, maintainability, and exceptional user experience.
+Software Engineer with expertise in full-stack development, specializing in building scalable, high performance backend systems and intuitive user interfaces.
+My experience span designing, developing, and deploying production-grade applications that prioritize efficiency, maintainability, and exceptional user experience.
 I thrive in Agile environments, collaborate effectively across cross-functional teams, and continuously explore new technologies that drive innovation and performance.
 
 ### **Tech Stack**  
