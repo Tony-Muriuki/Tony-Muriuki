@@ -5,7 +5,7 @@ Software Engineer with expertise in full-stack development, specializing in buil
 My experience spans designing, developing, and deploying production-grade applications that prioritize efficiency, maintainability, and exceptional user experience.
 I thrive in Agile environments, collaborate effectively across cross functional teams, and continuously explore new technologies that drive innovation and performance.
 
-### **Tech Stack**  
+### **Tech StackS**  
 - **Frontend:** React.js, TypeScript, JavaScript, HTML, CSS
 - **Backend:** NestJS, Node.js, TypeORM, PostgreSQL, Python, Flask  
 - **Testing & Quality Assurance:** Jest, Cypress (E2E Testing)  
